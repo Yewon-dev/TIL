@@ -14,4 +14,14 @@ git push origin master
 
 **20.08.07**
 
-- mysql DB 생성 및 aws 서버 연결
+- mysql DB 생성 및 aws 서버 연결❗
+
+- mysql로 생성한 DB를 django models.py에 생성
+```python
+python manage.py inspectdb
+```
+
+- models.py에서 변경한 값을 DB에 적용
+```python
+python manage.py migrate
+```
