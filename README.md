@@ -11,3 +11,7 @@ git commit -m ""
 git push origin master
 ```
 
+
+**20.08.07**
+
+- mysql DB 생성 및 aws 서버 연결
