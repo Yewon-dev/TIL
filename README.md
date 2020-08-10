@@ -25,3 +25,8 @@ python manage.py inspectdb
 ```python
 python manage.py migrate
 ```
+
+**20.08.10**
+
+- JavaScript :: Codeacademy
+https://www.codecademy.com/learn/introduction-to-javascript
