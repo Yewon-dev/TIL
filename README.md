@@ -30,3 +30,6 @@ python manage.py migrate
 
 - JavaScript :: Codeacademy
 https://www.codecademy.com/learn/introduction-to-javascript
+
+**20.08.15**
+- fullcalendar 사용하기
