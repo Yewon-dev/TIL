@@ -33,3 +33,6 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.08.15**
 - fullcalendar 사용하기
+
+**20.08.20**
+- AWS S3 사용해서 storage 사용법 익힘
