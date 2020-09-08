@@ -2,7 +2,7 @@
 
 
 
-**20.08.06**
+ **20.08.06**
 
 - git repository에서 폴더/파일 삭제하기 : local에서는 그대로 두고 원격 저장소에서만 지우기
 ```bash
@@ -36,9 +36,9 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.08.20**
 - AWS S3 사용해서 storage 사용법 익힘
+<br>
 
-
-## Mac OS
+# Mac OS
 
 **20.09.08**
 - vscode for Mac OS 사용법 익히기
