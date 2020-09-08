@@ -36,3 +36,9 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.08.20**
 - AWS S3 사용해서 storage 사용법 익힘
+
+
+## Mac OS
+
+**20.09.08**
+- vscode for Mac OS 사용법 익히기
