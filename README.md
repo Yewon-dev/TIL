@@ -42,3 +42,8 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.09.08**
 - vscode for Mac OS 사용법 익히기
+
+**20.09.13**
+- MacBook pro 단축키
+  강제 새로고침 : shift + command + r
+  화면 캡쳐 : shift + commanf + 3,4,5
