@@ -38,7 +38,7 @@ https://www.codecademy.com/learn/introduction-to-javascript
 - AWS S3 사용해서 storage 사용법 익힘
 <br>
 
-# Mac OS
+### Mac OS
 
 **20.09.08**
 - vscode for Mac OS 사용법 익히기
@@ -47,3 +47,6 @@ https://www.codecademy.com/learn/introduction-to-javascript
 - MacBook pro 단축키
   강제 새로고침 : shift + command + r
   화면 캡쳐 : shift + commanf + 3,4,5
+  
+**20.09.23**
+- kakao map api
