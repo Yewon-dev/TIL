@@ -53,3 +53,6 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.10.06**
 - kakao login api
+
+**20.10.08**
+- 어플리케이션 테스트 케이스 설계
