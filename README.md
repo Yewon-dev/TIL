@@ -56,3 +56,6 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 **20.10.08**
 - 어플리케이션 테스트 케이스 설계
+
+**20.10.11**
+- kakao login => 로그아웃 및 로그인 시 버튼 글자 바뀌게
